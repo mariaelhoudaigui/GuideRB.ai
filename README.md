@@ -1,38 +1,37 @@
-GuideRB.ai
-GuideRB.ai is an intelligent chatbot built with the latest AI technologies to assist users in navigating various services with ease. It provides natural language processing capabilities, offering a conversational interface for a wide range of applications.
+# GuideRB.ai
 
-Features
-Natural Language Understanding: Provides conversational responses using cutting-edge AI models.
-Voice Input: Allows users to interact with the bot using voice commands.
-Real-time Responses: Fast processing and response for optimal user experience.
-Customizable History: Retains the history of past conversations for easy access and continuity.
-Installation
-Clone the repository:
+GuideRB.ai is an interactive multilingual chatbot application built with React for the frontend and Flask for the backend. It integrates tools like RAG, Groq, and Lamma3 to provide a smarter user experience. The platform supports text and voice inputs, maintains conversation history, and offers a seamless multilingual support system.
 
-bash
-Copier
-Modifier
-git clone https://github.com/mariaelhoudaigui/GuideRB.ai.git
-cd GuideRB.ai
-Install dependencies:
+## Features
+- **Multilingual Support**: Supports multiple languages.
+- **Voice Input**: Audio-based interaction for hands-free communication.
+- **Conversation History**: Save and revisit past chats.
+- **Interactive Chatbot**: AI-driven conversations powered by Groq, RAG, and Lamma3.
 
-bash
-Copier
-Modifier
-pip install -r requirements.txt
-Run the application:
+## Tech Stack
+- **Frontend**: React.js
+- **Backend**: Flask
+- **Libraries**: RAG, Groq .
 
-bash
-Copier
-Modifier
-python app.py
-Usage
-Interact with the chatbot via text or voice input.
-View the history of previous conversations through the sidebar.
-Technologies Used
-Flask - Web framework for Python.
-Transformers - For natural language processing.
-Torch - Deep learning framework.
-Speech Recognition - For voice input capabilities.
-Contributing
-Feel free to fork the repository and submit pull requests. For any issues or feature requests, please open an issue.
+## Setup
+
+### Backend
+1. Clone the repository:
+ ```bash
+   git clone https://github.com/mariaelhoudaigui/GuideRB.ai.git
+   ```
+2. Install dependencies :
+  ```bash
+   pip install -r requirements.txt
+  ```
+3. Run Flask:
+  ```bash
+   python app.py 
+  ```
+4. Start the React app:
+  ```bash
+   npm run dev 
+  ```
+
+
+
