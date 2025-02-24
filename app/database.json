@@ -1,0 +1,1233 @@
+{
+    "cafes": [
+    {
+        "smiya": "Cafe Maure Oudayas",
+        "adresse": "Kasbah des Oudayas, Rabat",
+        "details": {
+            "description": "Un café traditionnel offrant une vue panoramique sur l'océan.",
+            "note": 4.5,
+            "prix_moyen": "20-50 MAD",
+            "type": "Traditionnel",
+            "latitude": 34.0194,
+            "longitude": -6.8369
+        }
+    },
+    {
+        "smiya": "La Comédie Café",
+        "adresse": "Avenue Al Marsa, Rabat",
+        "details": {
+            "description": "Un endroit moderne pour des boissons et desserts avec une ambiance détendue.",
+            "note": 4.3,
+            "prix_moyen": "30-70 MAD",
+            "type": "Moderne",
+            "latitude": 34.0200,
+            "longitude": -6.8267
+        }
+    },
+    {
+        "smiya": "Café Taha",
+        "adresse": "Rue Mohammed V, Rabat",
+        "details": {
+            "description": "Un café historique apprécié des habitants pour son charme rétro.",
+            "note": 4.1,
+            "prix_moyen": "20-40 MAD",
+            "type": "Historique",
+            "latitude": 34.0250,
+            "longitude": -6.8375
+        }
+    },
+    {
+        "smiya": "Bokeh Cafe",
+        "adresse": "Quartier Agdal, Rabat",
+        "details": {
+            "description": "Un café branché offrant des boissons artisanales et des snacks légers.",
+            "note": 4.4,
+            "prix_moyen": "40-80 MAD",
+            "type": "Moderne",
+            "latitude": 34.0255,
+            "longitude": -6.8463
+        }
+    },
+    {
+        "smiya": "Sun Five Cafe",
+        "adresse": "Avenue Annakhil, Hay Riad, Rabat",
+        "details": {
+            "description": "Un café élégant avec une terrasse ensoleillée, idéal pour une pause.",
+            "note": 4.2,
+            "prix_moyen": "30-70 MAD",
+            "type": "Contemporain",
+            "latitude": 34.0280,
+            "longitude": -6.8360
+        }
+    },
+    {
+        "smiya": "Cafés Carrion",
+        "adresse": "Centre-ville, Rabat",
+        "details": {
+            "description": "Un café classique avec une ambiance rétro et des pâtisseries délicieuses.",
+            "note": 4.0,
+            "prix_moyen": "25-60 MAD",
+            "type": "Classique",
+            "latitude": 34.0255,
+            "longitude": -6.8367
+        }
+    },
+    {
+        "smiya": "Starbucks",
+        "adresse": "Avenue Annakhil, Hay Riad, Rabat",
+        "details": {
+            "description": "Le café mondialement connu pour ses boissons signature et son ambiance conviviale.",
+            "note": 4.3,
+            "prix_moyen": "50-100 MAD",
+            "type": "International",
+            "latitude": 34.0301,
+            "longitude": -6.8335
+        }
+    },
+    {
+        "smiya": "Cafe Mazarine",
+        "adresse": "Avenue Fal Ould Oumeir, Agdal, Rabat",
+        "details": {
+            "description": "Un café raffiné, parfait pour un rendez-vous ou une réunion.",
+            "note": 4.5,
+            "prix_moyen": "40-90 MAD",
+            "type": "Raffiné",
+            "latitude": 34.0304,
+            "longitude": -6.8472
+        }
+    },
+    {
+        "smiya": "Oben Coffee",
+        "adresse": "Rue Al Araar, Hay Riad, Rabat",
+        "details": {
+            "description": "Un café moderne proposant des spécialités caféinées et une belle ambiance.",
+            "note": 4.6,
+            "prix_moyen": "45-80 MAD",
+            "type": "Moderne",
+            "latitude": 34.0285,
+            "longitude": -6.8379
+        }
+    },
+    {
+        "smiya": "La Pause Gourmande",
+        "adresse": "Avenue Ibn Sina, Agdal, Rabat",
+        "details": {
+            "description": "Un café-pâtisserie prisé pour ses gâteaux et son atmosphère accueillante.",
+            "note": 4.4,
+            "prix_moyen": "30-70 MAD",
+            "type": "Pâtisserie",
+            "latitude": 34.0298,
+            "longitude": -6.8481
+        }
+    },
+    {
+        "smiya": "Blueberry",
+        "adresse": "Avenue Moulay Rachid, Rabat",
+        "details": {
+            "description": "Un café coloré avec une touche artistique, connu pour ses smoothies.",
+            "note": 4.3,
+            "prix_moyen": "30-60 MAD",
+            "type": "Créatif",
+            "latitude": 34.0221,
+            "longitude": -6.8417
+        }
+    },
+    {
+        "smiya": "Edmonton Cafe",
+        "adresse": "Quartier Hassan, Rabat",
+        "details": {
+            "description": "Un café canadien unique, offrant des boissons chaudes et des mets légers.",
+            "note": 4.2,
+            "prix_moyen": "40-70 MAD",
+            "type": "International",
+            "latitude": 34.0240,
+            "longitude": -6.8355
+        }
+    },
+    {
+        "smiya": "Acima Champion Cafe",
+        "adresse": "Près du supermarché Acima, Rabat",
+        "details": {
+            "description": "Un café simple et économique pour une pause rapide en faisant les courses.",
+            "note": 3.8,
+            "prix_moyen": "20-40 MAD",
+            "type": "Simple",
+            "latitude": 34.0267,
+            "longitude": -6.8430
+        }
+    },
+    {
+        "smiya": "Artisan du Fakia – Sofia Palace",
+        "adresse": "Place Pietri, Rabat",
+        "details": {
+            "description": "Connu pour ses spécialités marocaines et son atmosphère élégante.",
+            "note": 4.5,
+            "prix_moyen": "50-100 MAD",
+            "type": "Élégant",
+            "latitude": 34.0278,
+            "longitude": -6.8261
+        }
+    },
+    {
+        "smiya": "Le Dhow",
+        "adresse": "Bouregreg Marina, Rabat",
+        "details": {
+            "description": "Un café flottant avec une vue unique sur le fleuve et la Kasbah.",
+            "note": 4.6,
+            "prix_moyen": "70-150 MAD",
+            "type": "Unique",
+            "latitude": 34.0332,
+            "longitude": -6.8349
+        }
+    },
+    {
+        "smiya": "Grill Robuchon",
+        "adresse": "Avenue Mohammed VI, Rabat",
+        "details": {
+            "description": "Un café-grill servant des plats variés dans une ambiance chic.",
+            "note": 4.4,
+            "prix_moyen": "80-200 MAD",
+            "type": "Chic",
+            "latitude": 34.0260,
+            "longitude": -6.8392
+        }
+    }
+    ],
+    "hotels": [
+        {
+            "smiya": "Sofitel Rabat Jardin des Roses",
+            "adresse": "Avenue Imam Malik, Souissi, Rabat",
+            "details": {
+                "description": "Un hôtel 5 étoiles avec jardins magnifiques, spa et restaurants raffinés.",
+                "note": 4.7,
+                "prix_moyen_par_nuit": "1500-3000 MAD",
+                "etoiles": 5,
+                "latitude": 34.0270,
+                "longitude": -6.8446
+            }
+        },
+        {
+            "smiya": "Hotel Le Diwan Rabat - MGallery",
+            "adresse": "Place de l'Unité Africaine, Rabat",
+            "details": {
+                "description": "Hôtel élégant au centre-ville avec des chambres modernes et un restaurant de haute qualité.",
+                "note": 4.6,
+                "prix_moyen_par_nuit": "1000-2000 MAD",
+                "etoiles": 4,
+                "latitude": 34.0205,
+                "longitude": -6.8412
+            }
+        },
+        {
+            "smiya": "Hotel Rabat",
+            "adresse": "21 Avenue Chellah, Rabat",
+            "details": {
+                "description": "Hôtel classique offrant des installations pratiques pour les affaires et le tourisme.",
+                "note": 4.0,
+                "prix_moyen_par_nuit": "800-1500 MAD",
+                "etoiles": 4,
+                "latitude": 34.0230,
+                "longitude": -6.8315
+            }
+        },
+        {
+            "smiya": "Imperial Boutique Hotel Rabat",
+            "adresse": "Avenue Hassan II, Rabat",
+            "details": {
+                "description": "Un hôtel élégant proposant des chambres modernes et un excellent service.",
+                "note": 4.5,
+                "prix_moyen_par_nuit": "800-1500 MAD",
+                "etoiles": 4,
+                "latitude": 34.0211,
+                "longitude": -6.8371
+            }
+        },
+        {
+            "smiya": "Smarts Hotel Agdal",
+            "adresse": "Avenue Fal Ould Oumeir, Agdal, Rabat",
+            "details": {
+                "description": "Un hôtel confortable situé au cœur d'Agdal avec accès facile aux commerces.",
+                "note": 4.2,
+                "prix_moyen_par_nuit": "700-1300 MAD",
+                "etoiles": 3,
+                "latitude": 34.0247,
+                "longitude": -6.8505
+            }
+        },
+        {
+            "smiya": "Rihab Hotel",
+            "adresse": "Quartier Hassan, Rabat",
+            "details": {
+                "description": "Un hôtel apprécié pour son confort et sa proximité avec les sites historiques.",
+                "note": 4.0,
+                "prix_moyen_par_nuit": "800-1400 MAD",
+                "etoiles": 4,
+                "latitude": 34.0280,
+                "longitude": -6.8394
+            }
+        },
+        {
+            "smiya": "Malak Hotel",
+            "adresse": "Avenue Moulay Youssef, Rabat",
+            "details": {
+                "description": "Un hôtel charmant offrant un excellent rapport qualité-prix.",
+                "note": 4.1,
+                "prix_moyen_par_nuit": "600-1200 MAD",
+                "etoiles": 3,
+                "latitude": 34.0332,
+                "longitude": -6.8357
+            }
+        },
+        {
+            "smiya": "Hôtel des Oudaïas",
+            "adresse": "Kasbah des Oudayas, Rabat",
+            "details": {
+                "description": "Un hôtel historique avec une vue exceptionnelle sur l'océan.",
+                "note": 4.6,
+                "prix_moyen_par_nuit": "1000-2000 MAD",
+                "etoiles": 4,
+                "latitude": 34.0214,
+                "longitude": -6.8320
+            }
+        },
+        {
+            "smiya": "ONOMO Hotel Rabat Terminus",
+            "adresse": "Avenue Mohammed V, Rabat",
+            "details": {
+                "description": "Un hôtel moderne situé près de la gare de Rabat-Ville.",
+                "note": 4.4,
+                "prix_moyen_par_nuit": "900-1800 MAD",
+                "etoiles": 4,
+                "latitude": 34.0225,
+                "longitude": -6.8368
+            }
+        },
+        {
+            "smiya": "STORY Rabat",
+            "adresse": "Quartier Souissi, Rabat",
+            "details": {
+                "description": "Un hôtel de luxe niché dans un environnement calme et verdoyant.",
+                "note": 4.8,
+                "prix_moyen_par_nuit": "2500-4000 MAD",
+                "etoiles": 5,
+                "latitude": 34.0276,
+                "longitude": -6.8350
+            }
+        },
+        {
+            "smiya": "Rabat Marriott Hotel",
+            "adresse": "Avenue Ibn Sina, Rabat",
+            "details": {
+                "description": "Un hôtel haut de gamme connu pour son service impeccable.",
+                "note": 4.7,
+                "prix_moyen_par_nuit": "1800-3000 MAD",
+                "etoiles": 5,
+                "latitude": 34.0203,
+                "longitude": -6.8359
+            }
+        },
+        {
+            "smiya": "Tour Hassan Palace",
+            "adresse": "Centre-ville, Rabat",
+            "details": {
+                "description": "Un hôtel emblématique offrant une expérience royale dans la capitale.",
+                "note": 4.9,
+                "prix_moyen_par_nuit": "2000-5000 MAD",
+                "etoiles": 5,
+                "latitude": 34.0233,
+                "longitude": -6.8387
+            }
+        },
+        {
+            "smiya": "Four Seasons Hotel Rabat at Kasr Al Bahr",
+            "adresse": "Avenue Mehdi Ben Barka, Rabat",
+            "details": {
+                "description": "Un luxueux hôtel offrant des vues imprenables sur l'océan Atlantique.",
+                "note": 4.9,
+                "prix_moyen_par_nuit": "3000-6000 MAD",
+                "etoiles": 5,
+                "latitude": 34.0241,
+                "longitude": -6.8313
+            }
+        },
+        {
+            "smiya": "Helnan Chellah Hotel",
+            "adresse": "Rue Moulay Youssef, Rabat",
+            "details": {
+                "description": "Un hôtel pratique avec des équipements modernes et une bonne situation.",
+                "note": 4.2,
+                "prix_moyen_par_nuit": "800-1500 MAD",
+                "etoiles": 3,
+                "latitude": 34.0273,
+                "longitude": -6.8351
+            }
+        },
+        {
+            "smiya": "Rent-inn Boutique Hotel",
+            "adresse": "Agdal, Rabat",
+            "details": {
+                "description": "Un hôtel boutique offrant des logements élégants et spacieux.",
+                "note": 4.5,
+                "prix_moyen_par_nuit": "1000-2000 MAD",
+                "etoiles": 4,
+                "latitude": 34.0279,
+                "longitude": -6.8542
+            }
+        },
+        {
+            "smiya": "Hotel Atlantic Agdal",
+            "adresse": "Avenue Alain Savary, Agdal, Rabat",
+            "details": {
+                "description": "Un hôtel moderne au cœur du quartier animé d'Agdal.",
+                "note": 4.3,
+                "prix_moyen_par_nuit": "1200-2500 MAD",
+                "etoiles": 4,
+                "latitude": 34.0274,
+                "longitude": -6.8499
+            }
+        }
+    ],
+    "monuments_historiques": [
+    {
+        "smiya": "Tour Hassan",
+        "adresse": "Centre de Rabat",
+        "details": {
+            "description": "Une tour inachevée datant du XIIe siècle, construite sous le règne du sultan Almohade Yacoub al-Mansour. Elle est un symbole emblématique de Rabat.",
+            "historique": "Construite en 1195.",
+            "prix_d_entrée": "Gratuit",
+            "latitude": 34.0206,
+            "longitude": -6.8416
+        }
+    },
+    {
+        "smiya": "Kasbah des Oudayas",
+        "adresse": "Quartier Oudayas, Rabat",
+        "details": {
+            "description": "Une ancienne forteresse Almohade située à l'embouchure du Bouregreg, offrant des vues spectaculaires sur l'océan Atlantique.",
+            "historique": "Construit au XIIe siècle.",
+            "prix_d_entrée": "10 MAD",
+            "latitude": 34.0201,
+            "longitude": -6.8402
+        }
+    },
+    {
+        "smiya": "Mausolée Mohammed V",
+        "adresse": "Près de la Tour Hassan, Rabat",
+        "details": {
+            "description": "Un magnifique mausolée abritant les tombes de Mohammed V et de ses fils, décoré avec des motifs marocains traditionnels.",
+            "historique": "Construit en 1971.",
+            "prix_d_entrée": "Gratuit",
+            "latitude": 34.0202,
+            "longitude": -6.8418
+        }
+    },
+    {
+        "smiya": "Chellah",
+        "adresse": "Route de Sidi Moussa, Rabat",
+        "details": {
+            "description": "Un ancien site archéologique et nécropole datant de l'époque romaine et médiévale, entouré de jardins paisibles.",
+            "historique": "Origines remontant au IIe siècle.",
+            "prix_d_entrée": "30 MAD",
+            "latitude": 34.0208,
+            "longitude": -6.8392
+        }
+    },
+    {
+        "smiya": "Bab Rouah",
+        "adresse": "Avenue Moulay Youssef, Rabat",
+        "details": {
+            "description": "Une imposante porte monumentale du XIIe siècle servant d'entrée historique à la ville.",
+            "historique": "Construit en 1197.",
+            "prix_d_entrée": "Gratuit",
+            "latitude": 34.0215,
+            "longitude": -6.8343
+        }
+    },
+    {
+        "smiya": "Jardins Andalou",
+        "adresse": "Kasbah des Oudayas, Rabat",
+        "details": {
+            "description": "De beaux jardins aménagés à la manière andalouse, parfaits pour une promenade paisible.",
+            "historique": "Créés au XVIIe siècle.",
+            "prix_d_entrée": "10 MAD",
+            "latitude": 34.0200,
+            "longitude": -6.8376
+        }
+    },
+    {
+        "smiya": "Villa des Arts",
+        "adresse": "Avenue Moulay Hassan, Rabat",
+        "details": {
+            "description": "Un bâtiment historique abritant un espace artistique dédié aux expositions et événements culturels.",
+            "historique": "Construit dans les années 1930.",
+            "prix_d_entrée": "Variable selon les expositions",
+            "latitude": 34.0251,
+            "longitude": -6.8363
+        }
+    },
+    {
+        "smiya": "La Médina de Rabat",
+        "adresse": "Centre-ville, Rabat",
+        "details": {
+            "description": "Une ancienne médina bien conservée, classée au patrimoine mondial de l'UNESCO, remplie de souks traditionnels et d'artisanat marocain.",
+            "historique": "Origine au XIIe siècle.",
+            "prix_d_entrée": "Gratuit",
+            "latitude": 34.0204,
+            "longitude": -6.8435
+        }
+    },
+    {
+        "smiya": "Dar Al-Makhzen (Palais Royal)",
+        "adresse": "Quartier Touarga, Rabat",
+        "details": {
+            "description": "Résidence officielle du roi du Maroc, entourée de vastes jardins et architecture somptueuse.",
+            "historique": "Construit au XVIIIe siècle.",
+            "prix_d_entrée": "Non accessible au public",
+            "latitude": 34.0232,
+            "longitude": -6.8357
+        }
+    },
+    {
+        "smiya": "Ribat Al-Fath",
+        "adresse": "Quartier de l'Agdal, Rabat",
+        "details": {
+            "description": "Un monument commémorant la victoire des Marocains sur les colonisateurs.",
+            "historique": "Érigé au XXe siècle.",
+            "prix_d_entrée": "Gratuit",
+            "latitude": 34.0295,
+            "longitude": -6.8318
+        }
+    },
+    {
+        "smiya": "Nécropole de Sidi Abderrahman",
+        "adresse": "Quartier Agdal, Rabat",
+        "details": {
+            "description": "Un site historique associant spiritualité et tradition, dédié au saint Sidi Abderrahman.",
+            "historique": "Lieu spirituel datant du XVIIe siècle.",
+            "prix_d_entrée": "Gratuit",
+            "latitude": 34.0293,
+            "longitude": -6.8370
+        }
+    },
+    {
+        "smiya": "Rue des Consuls",
+        "adresse": "Ancienne médina de Rabat",
+        "details": {
+            "description": "Une rue historique célèbre pour ses artisanats traditionnels et boutiques d'artisanat marocain.",
+            "historique": "Zone commerciale importante depuis le XVIIe siècle.",
+            "prix_d_entrée": "Gratuit",
+            "latitude": 34.0240,
+            "longitude": -6.8390
+        }
+    },
+    {
+        "smiya": "Grande Mosquée de Rabat",
+        "adresse": "Avenue Hassan II, Rabat",
+        "details": {
+            "description": "Un lieu de culte emblématique avec une architecture impressionnante.",
+            "historique": "Construit sous les Almohades au XIIe siècle.",
+            "prix_d_entrée": "Accessible uniquement aux musulmans",
+            "latitude": 34.0209,
+            "longitude": -6.8349
+        }
+    },
+    {
+        "smiya": "Mosquée Ahl Fas",
+        "adresse": "Quartier Diour Jamaa, Rabat",
+        "details": {
+            "description": "Une mosquée historique construite sous les Saadiens, célèbre pour son style architectural marocain.",
+            "historique": "Érigée au XVIe siècle.",
+            "prix_d_entrée": "Accessible uniquement aux musulmans",
+            "latitude": 34.0197,
+            "longitude": -6.8365
+        }
+    },
+    {
+        "smiya": "Tour des Corsaires",
+        "adresse": "Près de la Kasbah des Oudayas, Rabat",
+        "details": {
+            "description": "Un vestige historique utilisé autrefois pour surveiller l'entrée du fleuve Bouregreg.",
+            "historique": "Construit à l'époque des pirates andalous.",
+            "prix_d_entrée": "Gratuit",
+            "latitude": 34.0198,
+            "longitude": -6.8384
+        }
+    }
+],
+    "moyens_de_transport": [
+    {
+        "type": "Tramway",
+        "nom": "Tramway de Rabat-Salé",
+        "details": {
+            "description": "Un réseau moderne reliant les villes de Rabat et Salé, comprenant deux lignes principales.",
+            "horaires": "De 6h00 à 23h00",
+            "tarif": "6 MAD par trajet",
+            "stations_principales": [
+                {"station": "Station Gare Rabat-Ville", "latitude": 34.0206, "longitude": -6.8419},
+                {"station": "Station Bab Al Had", "latitude": 34.0234, "longitude": -6.8413},
+                {"station": "Station Madinat Al Irfane", "latitude": 34.0301, "longitude": -6.8256},
+                {"station": "Station Hôpital Moulay Youssef", "latitude": 34.0263, "longitude": -6.8195},
+                {"station": "Station Avenue Hassan II", "latitude": 34.0208, "longitude": -6.8187}
+            ]
+        }
+    },
+    {
+        "type": "Bus",
+        "nom": "Bus urbains",
+        "details": {
+            "description": "Des bus publics couvrant la plupart des quartiers de Rabat et ses environs.",
+            "horaires": "De 5h30 à 23h00",
+            "tarif": "5 MAD par trajet",
+            "principales_sociétés": [
+                "ALSA",
+                "Rabat Transport"
+            ]
+        }
+    },
+    {
+        "type": "Taxi",
+        "nom": "Petits taxis bleus",
+        "details": {
+            "description": "Des taxis individuels pour des déplacements intra-muros, limités à trois passagers.",
+            "tarif": "Départ : 2 MAD, tarif au kilomètre : environ 2 MAD",
+            "horaires": "Disponible 24/7",
+            "mode_de_paiement": "Cash uniquement"
+        }
+    },
+    {
+        "type": "Taxi",
+        "nom": "Grands taxis blancs",
+        "details": {
+            "description": "Des taxis collectifs permettant de voyager entre les villes ou les quartiers périphériques.",
+            "tarif": "Variable selon la distance, généralement entre 5 et 50 MAD",
+            "horaires": "Disponible 24/7",
+            "mode_de_paiement": "Cash uniquement"
+        }
+    },
+    {
+        "type": "Train",
+        "nom": "Trains ONCF",
+        "details": {
+            "description": "Des trains nationaux permettant de se rendre dans différentes villes comme Casablanca, Fès, et Tanger.",
+            "principales_gares": [
+                {"gare": "Gare Rabat-Ville", "latitude": 34.0206, "longitude": -6.8419},
+                {"gare": "Gare Rabat-Agdal", "latitude": 34.0175, "longitude": -6.8363}
+            ],
+            "horaires": "De 5h00 à 22h30",
+            "tarif": "Variable selon la destination, ex. Rabat-Casablanca : environ 40 MAD",
+            "classes": [
+                "Classe économique",
+                "Première classe"
+            ]
+        }
+    },
+    {
+        "type": "TGV",
+        "nom": "Al Boraq",
+        "details": {
+            "description": "Le train à grande vitesse reliant Rabat à Tanger en seulement 1h20.",
+            "principales_gares": [
+                {"gare": "Gare Rabat-Agdal", "latitude": 34.0175, "longitude": -6.8363},
+                {"gare": "Gare Tanger", "latitude": 35.7672, "longitude": -5.7994}
+            ],
+            "horaires": "De 6h00 à 21h00",
+            "tarif": "À partir de 149 MAD en classe économique",
+            "classes": [
+                "Classe économique",
+                "Classe business"
+            ]
+        }
+    },
+    {
+        "type": "Transport privé",
+        "nom": "Applications de covoiturage",
+        "details": {
+            "description": "Services de transport à la demande via des applications mobiles.",
+            "principales_plateformes": [
+                "Careem",
+                "InDrive",
+                "Heetch"
+            ],
+            "mode_de_paiement": "Cash ou carte (selon l'application)"
+        }
+    },
+    {
+        "type": "Transport à vélo",
+        "nom": "Vélos publics",
+        "details": {
+            "description": "Un service public de location de vélos mis en place par la ville de Rabat.",
+            "points_de_station": [
+                {"station": "Parc Ibn Sina", "latitude": 34.0191, "longitude": -6.8258},
+                {"station": "Avenue Mohammed V", "latitude": 34.0226, "longitude": -6.8284},
+                {"station": "Quartier de l'Agdal", "latitude": 34.0168, "longitude": -6.8387}
+            ],
+            "tarif": "Gratuit ou tarifs symboliques pour certaines durées",
+            "horaires": "De 8h00 à 20h00"
+        }
+    },
+    {
+        "type": "Car",
+        "nom": "Autocars interurbains",
+        "details": {
+            "description": "Des autocars connectant Rabat aux autres villes du Maroc, via des services réguliers et confortables.",
+            "principaux_transporteurs": [
+                "CTM",
+                "Supratours"
+            ],
+            "horaires": "Selon les destinations",
+            "tarif": "Variable en fonction de la distance, ex. Rabat-Marrakech : environ 100 MAD"
+        }
+    }
+],
+    "Musées": [
+        {
+          "smiya": "Musée Mohammed VI d'Art Moderne et Contemporain",
+          "adresse": "Avenue Moulay Hassan, Rabat",
+          "details": {
+            "latitude": 34.0151,
+            "longitude": -6.8325,
+            "description": "Expositions d'art moderne et contemporain avec des œuvres d'artistes marocains et internationaux.",
+            "horaires": "De 10h00 à 18h00, fermé le mardi",
+            "tarif": "40 MAD par personne"
+          }
+        },
+        {
+          "smiya": "Musée des Oudayas",
+          "adresse": "Kasbah des Oudayas, Rabat",
+          "details": {
+            "latitude": 34.0181,
+            "longitude": -6.8364,
+            "description": "Découverte de l'artisanat marocain, des bijoux traditionnels et des objets historiques.",
+            "horaires": "De 9h00 à 17h00",
+            "tarif": "20 MAD par personne"
+          }
+        },
+        {
+          "smiya": "Villa des Arts de Rabat",
+          "adresse": "10 Avenue Mohamed El Fassi, Rabat",
+          "details": {
+            "latitude": 34.0172,
+            "longitude": -6.8405,
+            "description": "Centre culturel abritant des expositions artistiques et des ateliers culturels.",
+            "horaires": "De 10h00 à 18h00, fermé le dimanche",
+            "tarif": "Entrée gratuite"
+          }
+        }
+      ],
+      "Théâtre et spectacles": [
+        {
+          "smiya": "Théâtre National Mohammed V",
+          "adresse": "Avenue Al Mansour Addahbi, Rabat",
+          "details": {
+            "latitude": 34.0136,
+            "longitude": -6.8329,
+            "description": "Lieu central pour des pièces de théâtre, concerts, ballets et spectacles comiques.",
+            "horaires": "Selon les événements",
+            "tarif": "Variable selon le spectacle"
+          }
+        },
+        {
+          "smiya": "Ciné-théâtre Renaissance",
+          "adresse": "Avenue Mohammed V, Rabat",
+          "details": {
+            "latitude": 34.0102,
+            "longitude": -6.8370,
+            "description": "Espace pour des projections de films, concerts et pièces de théâtre.",
+            "horaires": "Selon les événements",
+            "tarif": "50 à 150 MAD selon les spectacles"
+          }
+        },
+        {
+          "smiya": "Salle Bahnini",
+          "adresse": "Rue Beni Mellal, Rabat",
+          "details": {
+            "latitude": 34.0098,
+            "longitude": -6.8401,
+            "description": "Salle accueillant divers spectacles, conférences et concerts.",
+            "horaires": "Selon les événements",
+            "tarif": "Variable selon l’événement"
+          }
+        }
+      ],
+      "Parcs et espaces verts": [
+        {
+          "smiya": "Jardin d'Essais Botaniques",
+          "adresse": "Avenue de la Victoire, Rabat",
+          "details": {
+            "latitude": 34.0069,
+            "longitude": -6.8331,
+            "description": "Un espace vert calme et magnifique avec une diversité botanique impressionnante.",
+            "horaires": "De 8h00 à 18h00",
+            "tarif": "Entrée gratuite"
+          }
+        },
+        {
+          "smiya": "Parc Ibn Sina",
+          "adresse": "Avenue Annakhil, Rabat",
+          "details": {
+            "latitude": 34.0021,
+            "longitude": -6.8512,
+            "description": "Grand parc pour faire du jogging, pique-niquer ou simplement se détendre en famille.",
+            "horaires": "Ouvert 24h/24",
+            "tarif": "Entrée gratuite"
+          }
+        },
+        {
+          "smiya": "Forêt Hilton",
+          "adresse": "Rabat, Maroc",
+          "details": {
+            "latitude": 34.0005,
+            "longitude": -6.8532,
+            "description": "Une grande forêt idéale pour des balades en nature et le sport en plein air.",
+            "horaires": "Ouvert 24h/24",
+            "tarif": "Entrée gratuite"
+          }
+        },
+        {
+          "smiya": "Marina Bouregreg",
+          "adresse": "Bouregreg, Rabat",
+          "details": {
+            "latitude": 34.0222,
+            "longitude": -6.8214,
+            "description": "Promenade en bord de rivière avec restaurants, activités nautiques et vues spectaculaires.",
+            "horaires": "De 8h00 à 23h00",
+            "tarif": "Variable selon les activités"
+          }
+        }
+      ],
+      "Festivals": [
+        {
+          "smiya": "Festival Mawazine",
+          "adresse": "Divers lieux à Rabat",
+          "details": {
+            "latitude": 34.0209,
+            "longitude": -6.8416,
+            "description": "Un des plus grands festivals de musique du monde, attirant des artistes internationaux.",
+            "periode": "Généralement en juin",
+            "tarif": "Concerts gratuits pour certains espaces, billets payants pour les zones VIP"
+          }
+        },
+        {
+          "smiya": "Festival International du Film de Rabat",
+          "adresse": "Cinémas et salles de spectacle, Rabat",
+          "details": {
+            "latitude": 34.0162,
+            "longitude": -6.8321,
+            "description": "Projection de films internationaux et marocains avec des conférences et des compétitions.",
+            "periode": "En automne",
+            "tarif": "Variable selon l’événement"
+          }
+        },
+        {
+          "smiya": "Festival Jazz au Chellah",
+          "adresse": "Site historique du Chellah, Rabat",
+          "details": {
+            "latitude": 34.0189,
+            "longitude": -6.8004,
+            "description": "Festival international de jazz mettant en lumière des artistes européens et marocains.",
+            "periode": "En septembre",
+            "tarif": "100 MAD par soirée"
+          }
+        }
+      ],
+      "Sports et loisirs": [
+        {
+          "smiya": "Club de golf Dar Es Salam",
+          "adresse": "Km 9 Route des Zaers, Rabat",
+          "details": {
+            "latitude": 33.9728,
+            "longitude": -6.8709,
+            "description": "Un des meilleurs clubs de golf du Maroc avec des parcours magnifiques.",
+            "horaires": "De 7h00 à 19h00",
+            "tarif": "Accès réservé aux membres ou sur réservation"
+          }
+        },
+        {
+          "smiya": "Kayak sur le Bouregreg",
+          "adresse": "Bouregreg, Rabat",
+          "details": {
+            "latitude": 34.0215,
+            "longitude": -6.8187,
+            "description": "Une activité nautique unique offrant une belle vue sur la Kasbah des Oudayas et la Tour Hassan.",
+            "horaires": "De 9h00 à 18h00",
+            "tarif": "200 MAD par session"
+          }
+        },
+        {
+          "smiya": "Surf à la plage de Harhoura",
+          "adresse": "Plage de Harhoura, Rabat",
+          "details": {
+            "latitude": 33.9473,
+            "longitude": -6.8925,
+            "description": "Prenez des cours de surf ou profitez des vagues pour pratiquer librement.",
+            "horaires": "De 8h00 à 18h00",
+            "tarif": "Cours à partir de 250 MAD par personne"
+          }
+        }
+      ],
+      "commissariats": [
+        {
+          "smiya": "Commissariat de Police Hassan",
+          "adresse": "Avenue Mohammed V, Rabat",
+          "details": {
+            "description": "Commissariat de police assurant la sécurité dans le quartier Hassan de Rabat.",
+            "latitude": 34.0224,
+            "longitude": -6.8351,
+            "horaires": "24h/24, 7 jours sur 7",
+            "services": [
+              "Enregistrement des plaintes",
+              "Contrôle de l'identité",
+              "Prévention de la criminalité"
+            ]
+          }
+        },
+        {
+          "smiya": "Commissariat de Police Agdal",
+          "adresse": "Avenue Mohammed VI, Rabat",
+          "details": {
+            "description": "Commissariat chargé de la sécurité dans le quartier Agdal, un des quartiers résidentiels et commerciaux de Rabat.",
+            "latitude": 34.0201,
+            "longitude": -6.8367,
+            "horaires": "8h00 - 20h00, du lundi au vendredi",
+            "services": [
+              "Gestion des accidents de la circulation",
+              "Contrôle des transports"
+            ]
+          }
+        },
+        {
+          "smiya": "Commissariat de Police Yaacoub El Mansour",
+          "adresse": "Rue Karam, Rabat",
+          "details": {
+            "description": "Commissariat de police assurant la sécurité dans le quartier Yaacoub El Mansour, un quartier résidentiel.",
+            "latitude": 34.0300,
+            "longitude": -6.8390,
+            "horaires": "24h/24, 7 jours sur 7",
+            "services": [
+              "Lutte contre la délinquance",
+              "Interventions d'urgence"
+            ]
+          }
+        },
+        {
+          "smiya": "Commissariat de Police L'Ocean",
+          "adresse": "Rue Laayoune, Rabat",
+          "details": {
+            "description": "Commissariat couvrant la zone de l'Océan, un secteur populaire et commerçant.",
+            "latitude": 34.0210,
+            "longitude": -6.8234,
+            "horaires": "8h00 - 18h00, du lundi au vendredi",
+            "services": [
+              "Prévention des infractions",
+              "Interventions de nuit"
+            ]
+          }
+        },
+        {
+          "smiya": "Commissariat de Police Hay Riad",
+          "adresse": "Avenue Ibn Sina, Rabat",
+          "details": {
+            "description": "Commissariat desservant le quartier Hay Riad, un quartier moderne et haut de gamme.",
+            "latitude": 34.0283,
+            "longitude": -6.8049,
+            "horaires": "24h/24, 7 jours sur 7",
+            "services": [
+              "Lutte contre la criminalité",
+              "Sécurisation des événements publics"
+            ]
+          }
+        }
+      ],
+      "commissariats": [
+        {
+          "smiya": "Commissariat de Police Hassan",
+          "adresse": "Avenue Mohammed V, Rabat",
+          "details": {
+            "description": "Commissariat de police assurant la sécurité dans le quartier Hassan de Rabat.",
+            "latitude": 34.0224,
+            "longitude": -6.8351,
+            "horaires": "24h/24, 7 jours sur 7",
+            "services": [
+              "Enregistrement des plaintes",
+              "Contrôle de l'identité",
+              "Prévention de la criminalité"
+            ]
+          }
+        },
+        {
+          "smiya": "Commissariat de Police Agdal",
+          "adresse": "Avenue Mohammed VI, Rabat",
+          "details": {
+            "description": "Commissariat chargé de la sécurité dans le quartier Agdal, un des quartiers résidentiels et commerciaux de Rabat.",
+            "latitude": 34.0201,
+            "longitude": -6.8367,
+            "horaires": "8h00 - 20h00, du lundi au vendredi",
+            "services": [
+              "Gestion des accidents de la circulation",
+              "Contrôle des transports"
+            ]
+          }
+        },
+        {
+          "smiya": "Commissariat de Police Yaacoub El Mansour",
+          "adresse": "Rue Karam, Rabat",
+          "details": {
+            "description": "Commissariat de police assurant la sécurité dans le quartier Yaacoub El Mansour, un quartier résidentiel.",
+            "latitude": 34.0300,
+            "longitude": -6.8390,
+            "horaires": "24h/24, 7 jours sur 7",
+            "services": [
+              "Lutte contre la délinquance",
+              "Interventions d'urgence"
+            ]
+          }
+        },
+        {
+          "smiya": "Commissariat de Police L'Ocean",
+          "adresse": "Rue Laayoune, Rabat",
+          "details": {
+            "description": "Commissariat couvrant la zone de l'Océan, un secteur populaire et commerçant.",
+            "latitude": 34.0210,
+            "longitude": -6.8234,
+            "horaires": "8h00 - 18h00, du lundi au vendredi",
+            "services": [
+              "Prévention des infractions",
+              "Interventions de nuit"
+            ]
+          }
+        },
+        {
+          "smiya": "Commissariat de Police Hay Riad",
+          "adresse": "Avenue Ibn Sina, Rabat",
+          "details": {
+            "description": "Commissariat desservant le quartier Hay Riad, un quartier moderne et haut de gamme.",
+            "latitude": 34.0283,
+            "longitude": -6.8049,
+            "horaires": "24h/24, 7 jours sur 7",
+            "services": [
+              "Lutte contre la criminalité",
+              "Sécurisation des événements publics"
+            ]
+          }
+        }
+      ],
+      "portes": [
+        {
+          "smiya": "Porte de Bab El Had",
+          "adresse": "Bab El Had, Rabat",
+          "details": {
+            "description": "La Porte de Bab El Had est une porte historique qui marque l'entrée de la médina de Rabat, datant du XVIIe siècle. Elle est l'un des symboles de l'ancienne médina et se trouve près du marché traditionnel.",
+            "latitude": 34.0248,
+            "longitude": -6.8360,
+            "historique": "Construit au 17e siècle, la porte a été rénovée plusieurs fois. Elle était autrefois l'une des principales portes d'accès à la ville.",
+            "accessibilite": "Accessible à pied, à proximité du marché de Bab El Had."
+          }
+        },
+        {
+          "smiya": "Porte de Oudaïas",
+          "adresse": "Kasbah des Oudaïas, Rabat",
+          "details": {
+            "description": "La Porte des Oudaïas est une porte historique située dans la médina de Rabat, près de la Kasbah des Oudaïas. Elle est caractérisée par son architecture fortifiée et son influence andalouse.",
+            "latitude": 34.0226,
+            "longitude": -6.8288,
+            "historique": "La porte a été construite au 12e siècle sous la dynastie Almohade, avec des rénovations supplémentaires pendant la période mérinide.",
+            "accessibilite": "Accessible à pied depuis la Kasbah des Oudaïas, un site touristique important.",
+            "attractions_proches": [
+              "Jardin Andalou",
+              "Musée des Oudaïas"
+            ]
+          }
+        },
+        {
+          "smiya": "Porte de la Marine",
+          "adresse": "Avenue de la Marina, Rabat",
+          "details": {
+            "description": "La Porte de la Marine est une porte moderne située dans le quartier de la Marina de Rabat, près du port de la ville.",
+            "latitude": 34.0251,
+            "longitude": -6.8366,
+            "historique": "Cette porte fait partie du projet de réaménagement du port et de la zone environnante.",
+            "accessibilite": "Accessible en voiture et à pied, avec des parkings à proximité.",
+            "attractions_proches": [
+              "Port de Rabat",
+              "Promenade de la Marina"
+            ]
+          }
+        },
+        {
+          "smiya": "Porte de Témara",
+          "adresse": "Témara, près de Rabat",
+          "details": {
+            "description": "La Porte de Témara est une porte d'entrée de la ville située à proximité du quartier de Témara, une petite ville voisine de Rabat.",
+            "latitude": 33.9625,
+            "longitude": -6.9027,
+            "historique": "La porte a été utilisée pour contrôler l'accès vers la ville de Rabat depuis le sud.",
+            "accessibilite": "Accessible par la route principale depuis Rabat, avec des transports publics desservant la zone.",
+            "attractions_proches": [
+              "Plage de Témara",
+              "Forêt de Témara"
+            ]
+          }
+        },
+        {
+          "smiya": "Porte de la Kasbah",
+          "adresse": "Kasbah des Oudayas, Rabat",
+          "details": {
+            "description": "La Porte de la Kasbah est l'une des principales entrées de la Kasbah des Oudayas, un site historique qui remonte au 12e siècle.",
+            "latitude": 34.0229,
+            "longitude": -6.8284,
+            "historique": "Construite sous la dynastie Almohade, cette porte est un exemple frappant de l'architecture militaire et andalouse.",
+            "accessibilite": "Facilement accessible à pied depuis la médina de Rabat.",
+            "attractions_proches": [
+              "Jardin Andalou",
+              "Musée des Oudayas"
+            ]
+          }
+        },
+        {
+          "smiya": "Porte de l'Intendance",
+          "adresse": "Quartier de l'Intendance, Rabat",
+          "details": {
+            "description": "La Porte de l'Intendance est une porte d'accès au quartier historique de l'Intendance, un quartier militaire datant de la période française.",
+            "latitude": 34.0201,
+            "longitude": -6.8382,
+            "historique": "Construit sous le protectorat français, ce quartier était autrefois destiné à l'administration militaire.",
+            "accessibilite": "Accessible en voiture et à pied, situé près des grandes avenues de Rabat.",
+            "attractions_proches": [
+              "Place Mohammed V",
+              "Quartier Hassan"
+            ]
+          }
+        },
+        {
+          "smiya": "Porte de Baba Rwah",
+          "adresse": "Quartier Baba Rwah, Rabat",
+          "details": {
+            "description": "La Porte de Baba Rwah est située dans le quartier Baba Rwah, un des secteurs historiques de Rabat. Elle est un point d'accès à la médina, avec une architecture traditionnelle.",
+            "latitude": 34.0285,
+            "longitude": -6.8389,
+            "historique": "Cette porte servait à contrôler l'entrée des caravanes et des marchandises dans la médina de Rabat, à une époque où la ville était un centre commercial important.",
+            "accessibilite": "Accessible à pied, à proximité de la médina et des marchés traditionnels.",
+            "attractions_proches": [
+              "Marché de Bab Rwah",
+              "Place Souk El Had"
+            ]
+          }
+        }
+      ],
+      "guides_touristiques": [
+        {
+          "smiya": "Rabat City Tour",
+          "adresse": "Place Mohammed V, Rabat",
+          "details": {
+            "description": "Rabat City Tour offre des visites guidées de la ville de Rabat, avec un focus sur son histoire, ses monuments, et sa culture. Les visites incluent des arrêts à la Kasbah des Oudayas, la Tour Hassan, et d'autres sites emblématiques.",
+            "latitude": 34.0207,
+            "longitude": -6.8416,
+            "langues_disponibles": ["Français", "Anglais", "Espagnol"],
+            "type_de_visite": "Visite à pied, bus touristique",
+            "duree": "2 à 4 heures",
+            "prix": "À partir de 200 MAD",
+            "horaires": "Du lundi au samedi, 9h00 - 18h00"
+          }
+        },
+        {
+          "smiya": "Rabat Walking Tours",
+          "adresse": "Rue des Consuls, Rabat",
+          "details": {
+            "description": "Rabat Walking Tours propose des circuits à pied pour découvrir la médina de Rabat, ses ruelles étroites, ses marchés, et ses monuments historiques.",
+            "latitude": 34.0263,
+            "longitude": -6.8363,
+            "langues_disponibles": ["Français", "Anglais"],
+            "type_de_visite": "Visite guidée à pied",
+            "duree": "3 heures",
+            "prix": "À partir de 150 MAD",
+            "horaires": "Tous les jours, 10h00 - 16h00"
+          }
+        },
+        {
+          "smiya": "Tours and Travel Rabat",
+          "adresse": "Avenue de la République, Rabat",
+          "details": {
+            "description": "Tours and Travel Rabat offre des visites personnalisées de la ville, avec des guides professionnels qui partagent des informations détaillées sur l'histoire et la culture locales. Des excursions d'une journée dans les environs sont également proposées.",
+            "latitude": 34.0231,
+            "longitude": -6.8359,
+            "langues_disponibles": ["Français", "Anglais", "Arabe"],
+            "type_de_visite": "Visites guidées privées, excursions d'une journée",
+            "duree": "4 à 8 heures",
+            "prix": "Sur demande",
+            "horaires": "Lundi à vendredi, 9h00 - 18h00"
+          }
+        },
+        {
+          "smiya": "Rabat Tourist Guide",
+          "adresse": "Kasbah des Oudayas, Rabat",
+          "details": {
+            "description": "Rabat Tourist Guide propose des visites privées adaptées aux besoins de chaque visiteur, avec une attention particulière portée à l'histoire islamique et la culture marocaine.",
+            "latitude": 34.0231,
+            "longitude": -6.8284,
+            "langues_disponibles": ["Français", "Anglais", "Arabe"],
+            "type_de_visite": "Visite privée sur mesure",
+            "duree": "À la carte",
+            "prix": "À partir de 250 MAD",
+            "horaires": "Sur réservation uniquement"
+          }
+        },
+        {
+          "smiya": "Heritage Tours Rabat",
+          "adresse": "Quartier Hassan, Rabat",
+          "details": {
+            "description": "Heritage Tours Rabat propose des visites des sites historiques majeurs de la ville, tels que la Tour Hassan, la Nécropole de Chellah et les Palais royaux. Des guides passionnés partagent l'histoire fascinante de la ville et de ses monuments.",
+            "latitude": 34.0222,
+            "longitude": -6.8365,
+            "langues_disponibles": ["Français", "Anglais"],
+            "type_de_visite": "Visites guidées culturelles",
+            "duree": "3 à 5 heures",
+            "prix": "À partir de 180 MAD",
+            "horaires": "Tous les jours, 9h00 - 17h00"
+          }
+        },
+        {
+          "smiya": "Casablanca and Rabat Guided Tours",
+          "adresse": "Rabat Médina, Rabat",
+          "details": {
+            "description": "Un service de guide touristique qui offre des visites guidées de Rabat, avec une possibilité d'ajouter des excursions à Casablanca. Les visites incluent des sites incontournables comme le Mausolée de Mohammed V et la Kasbah des Oudayas.",
+            "latitude": 34.0250,
+            "longitude": -6.8360,
+            "langues_disponibles": ["Français", "Anglais", "Allemand"],
+            "type_de_visite": "Visite guidée privée",
+            "duree": "Journée complète",
+            "prix": "À partir de 350 MAD",
+            "horaires": "Sur réservation"
+          }
+        }
+      ],
+      "aeroports": [
+    {
+      "smiya": "Aéroport de Rabat-Salé",
+      "adresse": "Aéroport de Rabat-Salé, Salé, Maroc",
+      "details": {
+        "description": "L'Aéroport de Rabat-Salé est situé à environ 8 km au nord-est du centre de Rabat. C'est le principal aéroport desservant la capitale marocaine. Il propose des vols nationaux et internationaux, avec des liaisons régulières vers plusieurs destinations en Europe et au Moyen-Orient.",
+        "latitude": 34.0467,
+        "longitude": -6.7597,
+        "capacite": "3 millions de passagers par an",
+        "compagnies_principales": [
+          "Royal Air Maroc",
+          "Air Arabia",
+          "Ryanair"
+        ],
+        "services": [
+          "Restaurants",
+          "Duty-free",
+          "Wi-Fi gratuit",
+          "Transport public",
+          "Location de voitures"
+        ],
+        "horaires": "Ouvert 24/7",
+        "code_IATA": "RBA",
+        "code_ICAO": "GMME"
+      }
+    }
+   ]
+}
+
+
+
