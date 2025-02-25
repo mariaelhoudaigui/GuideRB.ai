@@ -171,7 +171,7 @@ app = Flask(__name__)
 CORS(app)
 # Initialize RAG system and chatbot
 
-GROQ_API = "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"
+GROQ_API = "Groq_key"
 rag_system = RabatRAG(r'C:\Users\bouat\PycharmProjects\ChatbotProject\app\database.json')
 groq_client = Groq(api_key=GROQ_API)
 Rabat_bot = RabatChatbot(rag_system, groq_client)
