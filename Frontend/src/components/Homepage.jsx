@@ -5,38 +5,6 @@ import { FaArrowRight, FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 import "./Homepage.css";
 
 function HomePage() {
-  const [transcript, setTranscript] = useState("");
-  const [isRecording, setIsRecording] = useState(false);
-
-  let recognition = null;
-
-  if ("webkitSpeechRecognition" in window) {
-    recognition = new window.webkitSpeechRecognition();
-    recognition.continuous = false;
-    recognition.interimResults = false;
-    recognition.lang = "fr-FR";
-
-    recognition.onresult = (event) => {
-      const text = event.results[0][0].transcript;
-      setTranscript(text);
-    };
-
-    recognition.onerror = (event) => {
-      console.error("Erreur de reconnaissance vocale:", event.error);
-    };
-  }
-
-  const toggleRecording = () => {
-    if (!recognition) return alert("La reconnaissance vocale n'est pas supportée");
-
-    if (isRecording) {
-      recognition.stop();
-    } else {
-      recognition.start();
-    }
-    setIsRecording(!isRecording);
-  };
-
   const socialLinks = {
     maria: {
       github: "https://github.com/mariaelhoudaigui",
