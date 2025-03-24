@@ -1,12 +1,12 @@
 # GuideRB.ai
 
-GuideRB.ai is an interactive multilingual chatbot application built with React for the frontend and Flask for the backend. It integrates tools like RAG, Groq, and Lamma3 to provide a smarter user experience. The platform supports text and voice inputs, maintains conversation history, and offers a seamless multilingual support system.
+GuideRB.ai is an interactive multilingual chatbot application built with React for the frontend and Flask for the backend. It integrates tools like RAG and Llama3 to provide a smarter user experience. The platform supports text and voice inputs, maintains conversation history, and offers a seamless multilingual support system.
 
 ## Features
 - **Multilingual Support**: Supports multiple languages.
 - **Voice Input**: Audio-based interaction for hands-free communication.
 - **Conversation History**: Save and revisit past chats.
-- **Interactive Chatbot**: AI-driven conversations powered by Groq, RAG, and Lamma3.
+- **Interactive Chatbot**: AI-driven conversations powered by Llama3 and RAG.
 
 ## Tech Stack
 - **Frontend**: React.js
