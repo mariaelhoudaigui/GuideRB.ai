@@ -26,7 +26,7 @@ GuideRB.ai is an interactive multilingual chatbot application built with React f
   ```
 3. Install Node.js and npm from : 🔗 https://nodejs.org/
   
-4. Inside the project folder, run :
+4. Inside the project folder "Frontend", run :
   ```bash
    npm install
   ```
