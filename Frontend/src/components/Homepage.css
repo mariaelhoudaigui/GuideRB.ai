@@ -1,0 +1,124 @@
+.home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100vw;
+    font-family: 'Arial', sans-serif;
+}
+
+.home-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding: 70px;
+    border-radius: 0;
+    box-shadow: none;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+}
+
+.chatbot-title {
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    margin-bottom: 0px;
+    margin-top: 1px;
+    margin-right: 40px;
+}
+
+.chatbot-description {
+    font-size: 16px;
+    color: black;
+    line-height: 1.6;
+    margin-bottom: 10px;
+    max-width: 80%;
+}
+
+.start-button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    height: 50px;
+    background: black;
+    color: white;
+    border-radius: 50%;
+    text-decoration: none;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.start-button:hover {
+    background: cadetblue;
+    transform: scale(1.1);
+}
+
+.social-container {
+    position: absolute;
+    right: 30px; /* Alignement à droite */
+    bottom: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 0px;
+}
+
+.person-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.person-text {
+    font-size: 12px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.social-icons {
+    display: flex;
+    gap: 10px;
+}
+
+.social-icons a {
+    transition: transform 0.3s, color 0.3s;
+}
+
+.social-icons a:hover {
+    transform: scale(1.2);
+}
+
+
+.home-container {
+    position: relative;
+    background-image: url('Frontend/src/assets/rbat1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;  /* L'image restera fixe pendant le défilement */
+}
+
+
+.home-container::before {
+    content: '';  /* Nécessaire pour créer l'élément pseudo */
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0);  /* Couleur d'overlay avec opacité (0.5 ici) */
+    filter: blur(300px);  /* Appliquer un léger flou */
+    z-index: 1;  /* Positionner l'overlay au-dessus de l'image, mais en dessous du contenu */
+}
+
+
+.home-content {
+
+    position: relative;
+    z-index: 2;  /* Assurez-vous que le contenu (texte) soit au-dessus de l'overlay */
+    color: black;  /* Par exemple, rendre le texte blanc pour le contraste */
+    padding: 20px;
+}

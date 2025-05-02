@@ -1,0 +1,22 @@
+# Ignorer l'environnement virtuel
+myvenv/
+
+# Fichiers Python compilés / cache
+__pycache__/
+*.py[cod]
+
+# Fichiers de configuration / variables d'environnement
+.env
+*.env
+
+# Répertoires de configuration des IDE
+.vscode/
+.idea/
+
+# Fichiers système (macOS, Windows)
+.DS_Store
+Thumbs.db
+
+# Fichiers de log
+*.log
+
